@@ -1,0 +1,92 @@
+.titre{
+    color: orange;
+    text-align: center;
+    text-shadow: 2px 2px 5px red;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 90px;
+    
+}
+.navbar{  
+    list-style-type: none;
+    margin: 20;
+    padding: 20;
+    overflow:auto;
+    position: fixed;
+    
+
+}
+body  {
+    background-image: url("https://img.freepik.com/photos-gratuite/concept-blockchain-open-source-numerique-fond-noir-codage-crypto-monnaie_53876-124641.jpg?w=1060&t=st=1660746400~exp=1660747000~hmac=f09483ce8ed819c3c4c23640452b24897960c57a34a48e81b36c9a58a4008e5e");
+    background-color: #cccccc;
+    background-attachment:fixed;
+    
+  }
+
+.a{ 
+    float: left;
+    border-right:2px solid #bbb;
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    border-radius: 50%;
+}
+#img{
+    border-radius: 50%;
+}
+.soustitre{
+    color: bisque;
+    text-align: center;
+    font-size: 70px;
+    margin-bottom: 10px;
+    position: relative;
+    
+}
+.soustitre span {
+    color: orange;
+
+
+}
+.btn{
+    display: inline-block;
+    margin-top: 30px;
+    background: orange;
+    color: bisque;
+    text-decoration: none;
+    padding: 15px 30px;
+    border-radius: 30px;
+    margin: 0% 45%;
+    font-size: 15px;
+    cursor: pointer;
+
+}
+footer{
+    color: orange;
+    text-align: center;
+    text-shadow: 2px 2px 5px red;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 15px;
+    
+
+}
+
+
+
+
+
+
+.video{
+    padding-right: 100px;
+    margin-left: 100px;
+    
+ 
+
+
+
+
+
+
+}

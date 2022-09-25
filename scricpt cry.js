@@ -1,0 +1,1 @@
+var visitorName = prompt("What's your name : ")

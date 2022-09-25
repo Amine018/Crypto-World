@@ -1,0 +1,83 @@
+.titre{
+    color: orange;
+    text-align: center;
+    text-shadow: 2px 2px 5px red;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 90px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 8%;
+    
+}
+.navbar{  
+    list-style-type: none;
+    margin: 20;
+    padding: 20;
+    overflow:auto;
+    position: fixed;
+    
+
+}
+body  {
+    background-image: url("https://img.freepik.com/photos-gratuite/concept-blockchain-open-source-numerique-fond-noir-codage-crypto-monnaie_53876-124641.jpg?w=1060&t=st=1660746400~exp=1660747000~hmac=f09483ce8ed819c3c4c23640452b24897960c57a34a48e81b36c9a58a4008e5e");
+    background-color: #cccccc;
+    background-attachment:fixed;
+    
+  }
+
+.a{ 
+    float: left;
+    border-right:2px solid #bbb;
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    border-radius: 50%;
+}
+#img{
+    border-radius: 50%;
+}
+.trading{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 8%;
+    justify-content: space-between;
+}
+.btn{
+    border: 2px solid rgb(94, 2, 2);
+    justify-content: center;
+    cursor: pointer;
+}
+.st{
+    color: orange;
+    text-align: center;
+    text-shadow: 2px 2px 5px red;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 30px;
+}
+.soustitre{
+    color: orange;
+    text-align: center;
+    text-shadow: 2px 2px 5px red;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 4%;
+
+}
+footer{
+    color: orange;
+    text-align: center;
+    text-shadow: 2px 2px 5px red;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 15px;
+    
+
+}
